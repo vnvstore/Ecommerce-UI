@@ -1,10 +1,10 @@
 <h2>Ecommerce Demo</h2>
-<div>
-<a href="https://play.google.com/store/apps/details?id=vn.vstore.medicare">
-    <img width="380" height="114" src="images/gp.png" />
-</a>
-</div>
 
+<h2>Whats inside</h2>
+<ul>
+    <li>GUI: fork of existing repository https://github.com/ferdirhyme/marketplace</li>
+    <li>Rest API: Retrofit</li>
+</ul>
 <h2>Screenshots</h2>
 <table width="100%">
 <tr>
