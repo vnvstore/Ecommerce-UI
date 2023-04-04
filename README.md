@@ -2,7 +2,7 @@
 
 <h2>Whats inside</h2>
 <ul>
-    <li>GUI: fork of existing repository https://github.com/ferdirhyme/marketplace</li>
+    <li>GUI: fork of existing repository https://github.com/ferdirhyme/marketplace ( with all packaged versions updated)</li>
     <li>Rest API: Retrofit</li>
 </ul>
 <h2>Screenshots</h2>
